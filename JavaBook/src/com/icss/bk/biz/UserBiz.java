@@ -35,6 +35,9 @@ public class UserBiz {
 			UserDao dao = new UserDao();
 			user = dao.login(uname, pwd);			
 		}
+
+		对对对对对对多多多多多多多多
+			啛啛喳喳错错错错错错错错错
 		
 		return user;
 	}
