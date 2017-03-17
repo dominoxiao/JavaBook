@@ -16,6 +16,7 @@ public class UserBiz {
 		if(user != null){
 			UserDao dao = new UserDao();
 			bRet = dao.regist(user);
+			对对对对对对多多多多多多多多多
 		}
 		
 		return bRet;
