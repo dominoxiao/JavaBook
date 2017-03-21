@@ -28,7 +28,7 @@ public class UserUI {
         if(u == null){
         	System.out.println( "用户名、密码错误，请重新输入");
         }else{
-        	System.out.println( u.getUname() +  "--用户登录成功"); 
+        	System.out.println( u.getUname() +  "--用户登录成功"); 2222222222
         }		
 	}
 	
