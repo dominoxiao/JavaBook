@@ -16,7 +16,7 @@ public class UserBiz {
 		if(user != null){
 			UserDao dao = new UserDao();
 			bRet = dao.regist(user);
-			对对对对对对多多多多多多多多多
+		
 		}
 		
 		return bRet;
@@ -37,8 +37,7 @@ public class UserBiz {
 			user = dao.login(uname, pwd);			
 		}
 
-		对对对对对对多多多多多多多多
-			啛啛喳喳错错错错错错错错错
+		
 		
 		return user;
 	}

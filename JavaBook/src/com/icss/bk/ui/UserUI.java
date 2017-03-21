@@ -34,8 +34,8 @@ public class UserUI {
 	
 	public void testAA(){
 	
-         System.out.println( u.getUname() +  "--≤‚ ‘"); 
-		}
+        
+    }
 	
 	
 	
